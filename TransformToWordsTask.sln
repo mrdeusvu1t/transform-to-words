@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TransformToWordsTask", "TransformToWordsTask\TransformToWordsTask.csproj", "{B6EE8152-E65A-4B58-9448-9B4E967C7DC5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TransformToWordsTask.Tests", "TransformToWordsTask.Tests\TransformToWordsTask.Tests.csproj", "{B308A9A2-5672-4687-AB7D-4416C717929E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B6EE8152-E65A-4B58-9448-9B4E967C7DC5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6EE8152-E65A-4B58-9448-9B4E967C7DC5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6EE8152-E65A-4B58-9448-9B4E967C7DC5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6EE8152-E65A-4B58-9448-9B4E967C7DC5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B308A9A2-5672-4687-AB7D-4416C717929E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B308A9A2-5672-4687-AB7D-4416C717929E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B308A9A2-5672-4687-AB7D-4416C717929E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B308A9A2-5672-4687-AB7D-4416C717929E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
