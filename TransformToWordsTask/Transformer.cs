@@ -5,7 +5,7 @@ namespace TransformToWordsTask
     /// <summary>
     /// Provides transformer methods.
     /// </summary>
-    public class Transformer
+    public sealed class Transformer
     {
         /// <summary>
         /// Converts number's digital representation into words.
