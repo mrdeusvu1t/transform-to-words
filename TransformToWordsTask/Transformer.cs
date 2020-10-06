@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 
 namespace TransformToWordsTask
 {
@@ -14,7 +14,7 @@ namespace TransformToWordsTask
         /// <returns>Words representation.</returns>
         public string TransformToWords(double number)
         {
-            throw  new NotImplementedException("You need to implement this function.");
+            throw new NotImplementedException("You need to implement this function.");
         }
     }
 }
