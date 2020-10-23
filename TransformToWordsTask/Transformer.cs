@@ -1,5 +1,7 @@
 using System;
 
+#pragma warning disable CA1822
+
 namespace TransformToWordsTask
 {
     /// <summary>
